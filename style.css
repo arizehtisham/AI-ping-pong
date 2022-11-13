@@ -1,0 +1,20 @@
+.pingpong{
+    width: 100%;
+    text-align: left;
+
+}
+.pingpong h3{
+    display:inline;
+}
+.pingpong button{
+    float:right;
+    border:1px solid purple;
+}
+.mario1{
+    width:100%;
+
+}
+#start,#status{
+    font-size: 25px;
+
+}
